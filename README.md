@@ -2,13 +2,16 @@
 # Music Preference Predictor
 
 ## Project Overview
-This project implements a simple Decision Tree Classifier to predict an individual's likely music genre preference based on their age and gender. It serves as a straightforward example of applying machine learning for demographic-based prediction of musical tastes.
+This project implements a simple Decision Tree Classifier to predict an individual's likely
+music genre preference based on their age and gender. It serves as a straightforward example
+of applying machine learning for demographic-based prediction of musical tastes.
 
 ## Features
 - Predicts music genres using age and gender as input features.
 - Utilizes a clear and interpretable Decision Tree model from `scikit-learn`.
 - Provides insights into potential correlations between age, gender, and music choices.
-- Includes functionality for training, evaluation, and persistence (saving/loading) of the model.
+- Includes functionality for training, evaluation, and persistence (saving/loading)
+of the model.
 
 ## Getting Started
 
